@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-
+///IGNACIO NIZETICH | UTN MAR DEL PLATA
 typedef struct
 {
     int legajo;
